@@ -6,3 +6,4 @@
 6. Регулировка состояния предмета в инвентаре (num 7, num8)
 7. Телепорт на enter у demo_record (Ранее не доступен на RELEASE)
 8. Команды (g_god; g_unlimitedammo; jump_to_level) (Ранее не доступен на RELEASE)
+9. Добавлена команда g_spawn
