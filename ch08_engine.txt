@@ -28,4 +28,4 @@
 28. Теперь переход на другую локацию при отказе не телепортирует нас на исходное положение
 
 
-Коммит к очередной недо фишке https://github.com/SkyLoaderr/xray-engine-repo/commit/5135e25418a9359968fbf78d7772ec2880ed6820#diff-b902fd0bf563af62474710e977f21200bc311d283224fbae5774a408fd9d6974
+Переход https://github.com/SkyLoaderr/xray-engine-repo/commit/5135e25418a9359968fbf78d7772ec2880ed6820#diff-b902fd0bf563af62474710e977f21200bc311d283224fbae5774a408fd9d6974
